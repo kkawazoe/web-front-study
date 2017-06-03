@@ -3,9 +3,13 @@
 
 # /node_modules
 /node_modules/*
+/api_mock/node_modules/*
 
 # /images
 assets/images/*.png
 assets/images/*.gif
+
+# api_mock/api.html
+api.html
 
 dist

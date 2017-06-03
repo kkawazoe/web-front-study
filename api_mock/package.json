@@ -1,0 +1,16 @@
+{
+  "name": "api_mock",
+  "version": "1.0.0",
+  "description": "api_mock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "aglio": "^2.2.1",
+    "api-mock": "^0.3.2"
+  },
+  "dependencies": {}
+}
